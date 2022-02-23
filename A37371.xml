@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the congregational ministers, in and about London, against antinomian errours, and ignorant and scandalous persons intruding themselves into the ministry</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37371</idno>
+            <idno type="STC">Wing D655</idno>
+            <idno type="STC">ESTC R30977</idno>
+            <idno type="EEBO-CITATION">11752590</idno>
+            <idno type="OCLC">ocm 11752590</idno>
+            <idno type="VID">48612</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48612)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1483:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the congregational ministers, in and about London, against antinomian errours, and ignorant and scandalous persons intruding themselves into the ministry</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition</edition>
+               </editionStmt>
+               <extent>[2] , viii, 68 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hartley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata after preface, p. viii.</note>
+                  <note>Imperfect: pages stained. Best copy available for photographing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregationalists --  England.</term>
+               <term>Antinomianism.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48612:1"/>
+            <pb facs="tcp:48612:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE <hi>Congregational Miniſters,</hi> In and about <hi>London,</hi> AGAINST Antinomian Errours, AND Ignorant and Scandalous Perſons Intruding themſelves into the MINISTRY. The SECOND EDITION; to which is Added, <hi>The Teſtimony of ſome of the ſaid Miniſters.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Hartley</hi> over-againſt <hi>Gray</hi>'s-<hi>Inn,</hi> in <hi>Holborn.</hi> MDCXCIX.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:48612:2"/>
+            <pb facs="tcp:48612:2" rendition="simple:additions"/>
+            <pb facs="tcp:48612:3" rendition="simple:additions"/>
+            <p>IT having been Reported, and Indu<g ref="char:EOLhyphen"/>ſtriouſly ſpread abroad, That the <hi>De<g ref="char:EOLhyphen"/>claration against Antinomian Errours,</hi> &amp;c. was not Conſidered, and Appro<g ref="char:EOLhyphen"/>ved of by the <hi>Congregational Miniſters</hi> in, and about this City, (which is in manifeſt Contradiction to the <hi>Title-Page,</hi> and <hi>Preface;</hi>) We, whoſe Names are hereunto ſubſcri<g ref="char:EOLhyphen"/>bed, to the end the Truth of Matter of Fact may Appear to the Conviction of Every <hi>Reader,</hi> do <hi>Declare,</hi> That, (Ex<g ref="char:EOLhyphen"/>cepting Two or Three Miniſters, who go under the ſame Denomination with us, to whom we thought not fit to Communi<g ref="char:EOLhyphen"/>cate the ſaid <hi>Declaration</hi>) All the <hi>Paſtors</hi> of <hi>Congregational Churches,</hi> in, and about this City, did <hi>Conſider,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nanimouſly Expreſs their Approbation of it.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>Feb. 23. 1699.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Geo. Griffith.</hi>
+                     </item>
+                     <item>
+                        <hi>Matth. Mead.</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Lobb.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>John Nesbitt.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="iii" facs="tcp:48612:3" rendition="simple:additions"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <hi>SOME of us, a while after the</hi> Heads of Agreement <hi>were Aſſented unto by the</hi> United Mini<g ref="char:EOLhyphen"/>ſters <hi>in</hi> 91, <hi>Apprehending that the</hi> Doctrines <hi>of <hi>Chriſt's Satis<g ref="char:EOLhyphen"/>faction,</hi>
+               </hi> and our <hi>Iuſtification, <hi>were in Danger, 'twas in a</hi>
+               </hi> Brother<g ref="char:EOLhyphen"/>ly way <hi>Endeavour'd, that they might be</hi> Explained, <hi>and</hi> Own'd <hi>as com<g ref="char:EOLhyphen"/>monly held by the</hi> Reformed: <hi>And, after ſome conſiderable Time,</hi> (<hi>wherein 'twas once hoped, there had been a</hi> Sincere Renunciation <hi>of the</hi> Er<g ref="char:EOLhyphen"/>rours, <hi>which too ſoon appeared to be otherwiſe</hi>) <hi>a</hi> Paper, <hi>containing a Right
+<pb n="iv" facs="tcp:48612:4"/>State of theſe</hi> Articles, <hi>and a Diſ<g ref="char:EOLhyphen"/>owning the</hi> Oppoſite Opinions, <hi>was ſent unto, and Joyfully Receiv'd by us, as what was Adjuſted to Remove the</hi> Offence; <hi>but, at last, laid aſide for</hi> Another <hi>Paper that Encreaſed the</hi> Diſſatisfaction.</p>
+            <p>
+               <hi>Matters lying thus for ſeveral Months, the</hi> Firſt Paper, <hi>with a brief Account of what had been done towards a</hi> Conciliation <hi>came to light, and thereupon we were ſurprized with an</hi> Accuſation, <hi>not against a</hi> Per<g ref="char:EOLhyphen"/>ſon <hi>or two of</hi> Our Way <hi>only, but against</hi> Us <hi>more</hi> generally; <hi>and altho the</hi> Charge <hi>was, of our be<g ref="char:EOLhyphen"/>ing Tainted with</hi> Antinomian Er<g ref="char:EOLhyphen"/>rours, <hi>yet was it not ſent unto, nor ſeen by us, but in a</hi> Publick Print; <hi>wherein we were treated, not as</hi> Bre<g ref="char:EOLhyphen"/>thren, <hi>but in a</hi> Way very Uncom<g ref="char:EOLhyphen"/>mon, <hi>perhaps without a</hi> Preſident <hi>by One of thoſe</hi> Nine <hi>who had Sub<g ref="char:EOLhyphen"/>ſcribed
+<pb n="v" facs="tcp:48612:4"/>that</hi> Firſt Paper, <hi>and in Con<g ref="char:EOLhyphen"/>junction with others, ſent</hi> it <hi>to us in a</hi> Letter, <hi>Preſſing us to Accept of it, as an</hi> Expedient <hi>for</hi> Accommoda<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>When we conſidered the</hi> Nature <hi>of this</hi> Charge, <hi>and under</hi> what Coun<g ref="char:EOLhyphen"/>tenance (<hi>according to the</hi> Repreſen<g ref="char:EOLhyphen"/>tation <hi>given of it in</hi> Print) it appeared, <hi>we had Reaſon to think, that if our</hi> Accuſers <hi>themſelves did not, yet the other</hi> Brethren <hi>would up<g ref="char:EOLhyphen"/>on</hi> Reflection, <hi>judge it to be both</hi> Equal <hi>and</hi> Fair, <hi>that they who were in a</hi> Regular, <hi>and</hi> Chriſtian Man<g ref="char:EOLhyphen"/>ner, <hi>first</hi> Accuſed, <hi>ſhould</hi> Vindi<g ref="char:EOLhyphen"/>cate themſelves, <hi>before</hi> they <hi>expe<g ref="char:EOLhyphen"/>cted any thing of that kind from</hi> us: <hi>Yea more, that ſeeing they did ſo very well know our</hi> Principles <hi>to be</hi> Ortho<g ref="char:EOLhyphen"/>dox <hi>and</hi> Sound, <hi>they would</hi> clear themſelves <hi>from having any</hi> Hand <hi>in the</hi> Accuſation, <hi>if not ſave us
+<pb n="vi" facs="tcp:48612:5"/>this</hi> Trouble, <hi>by</hi> Teſtifying <hi>their</hi> Diſlike <hi>of thoſe</hi> Unjuſt Aſperſions <hi>cast upon</hi> us, <hi>by ſome of</hi> their own Way, <hi>in</hi> Point of Diſcipline.</p>
+            <p>
+               <hi>But having waited a long while, and nothing more done than the</hi> con<g ref="char:EOLhyphen"/>tinuing the Clamour <hi>of our being</hi> Antinomians, <hi>we have made the en<g ref="char:EOLhyphen"/>ſuing</hi> Declaration, <hi>which has been</hi> Confidered <hi>and</hi> Approved <hi>of by us,</hi> [<hi>viz.</hi> The Miniſters of the Con<g ref="char:EOLhyphen"/>gregational Perſwaſion, in and a<g ref="char:EOLhyphen"/>bout this City,] <hi>wherein we have been more</hi> full <hi>than our</hi> Accuſers <hi>have, in their</hi> Propoſitions, <hi>deſired us to be.</hi>
+            </p>
+            <p>
+               <hi>Now having thus</hi> Diſcharged <hi>our ſelves from the</hi> Groundleſs Accu<g ref="char:EOLhyphen"/>ſations <hi>which have been against us, on the one</hi> Extreme, <hi>we cannot but at the ſame time expreſs our</hi> Diſlike <hi>of thoſe Hurtful Errours about</hi> Chriſt's Satisfaction, <hi>and our</hi> Juſtification
+<pb n="vii" facs="tcp:48612:5" rendition="simple:additions"/>
+               <hi>on the</hi> Other; <hi>Particularly, ſuch as are in the Writings of Mr.</hi> B—r, <hi>and his</hi> Followers; <hi>wiſhing, That what Perſons ſoever have been</hi> charged, <hi>would Declare their</hi> true Senſe, <hi>to the</hi> End <hi>we may know how to carry it to<g ref="char:EOLhyphen"/>wards them in the</hi> Exerciſe of For<g ref="char:EOLhyphen"/>bearance. <hi>For, altho we do with</hi> Lu<g ref="char:EOLhyphen"/>ther, <hi>think <hi>Truth</hi> to be of ſo</hi> Ineſti<g ref="char:EOLhyphen"/>mable a Value, That it's better Heaven and Earth be Blended to<g ref="char:EOLhyphen"/>gether in Confuſion, than that the leaſt Duſt thereof ſhould Periſh: <hi>And that therefore it ought earneſtly to be</hi> Contended for; <hi>yet do we very</hi> conſiſtently Agree <hi>with the</hi> Elders <hi>and</hi> Meſſengers <hi>at the</hi> Savoy; <hi>who, in the</hi> Preface <hi>to our</hi> Confeſſion <hi>de<g ref="char:EOLhyphen"/>clared,</hi>
+               <q>
+                  <hi>That amongst all</hi> Chriſtian States <hi>and</hi> Churches, <hi>there ought to be vouchſafed a</hi> Forbearance <hi>and</hi> Mutual Indulgence <hi>unto</hi> Saints of all Perſwaſions, <hi>that keep</hi> unto,
+<pb n="viii" facs="tcp:48612:6" rendition="simple:additions"/>
+                  <hi>and</hi> hold faſt <hi>the</hi> Neceſſary Foun<g ref="char:EOLhyphen"/>dations <hi>of</hi> Faith <hi>and</hi> Holineſs, <hi>in all other</hi> Matters Extra-Funda<g ref="char:EOLhyphen"/>mental, <hi>whether of</hi> Faith <hi>or</hi> Or<g ref="char:EOLhyphen"/>der, </q> 
+               <hi>p.</hi> 6. 7. <hi>And ſeeing our</hi> Go<g ref="char:EOLhyphen"/>vernors <hi>have by a</hi> Law Tollerated <hi>us, we judge our ſelves the more obli<g ref="char:EOLhyphen"/>ged to bear with, and Exerciſe that</hi> Compaſſion <hi>and</hi> Tenderneſs <hi>to<g ref="char:EOLhyphen"/>wards our</hi> Fellow Servants, <hi>which we have had from our</hi> Superiors.</p>
+            <p>
+               <hi>Our Prayer unto</hi> God <hi>is,</hi> That the ſame Mind be in all, which was in <hi>Christ Jeſus,</hi> that no<g ref="char:EOLhyphen"/>thing be done through Strife, and Vain Glory, but in Lowlineſs of Mind.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 6. Line 7. for <hi>eaſie,</hi> read <hi>eaſily;</hi> l. 17. read, <hi>ſome of us expreſſed a;</hi> p. 32. l. 7. read, <hi>whereof.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:48612:6" rendition="simple:additions"/>
+            <head>A DECLARATION, <hi>&amp;c.</hi>
+            </head>
+            <p>ALtho' the <hi>Elders</hi> and <hi>Meſ<g ref="char:EOLhyphen"/>ſengers</hi> of <hi>Congregational</hi> Churches, who met in the Year 1658. at the <hi>Savoy,</hi> after they had (as themſelves expreſs it) ſailed through an Aeſtuation, Fluxes and Refluxes of great Va<g ref="char:EOLhyphen"/>riety of Spirits, Doctrines, and Opinions which have been Ac<g ref="char:EOLhyphen"/>companyed in their ſeveral Sea<g ref="char:EOLhyphen"/>ſons, with Powerfull Perſwaſions and Temptations, to Seduce thoſe of our way, did Declare their Faith, in the <hi>ſame Subſtance</hi> for matter, yea <hi>Words</hi> for the moſt Part, which other <hi>Churches,</hi> and
+<pb n="2" facs="tcp:48612:7"/>
+               <hi>Aſſemblies</hi> Reputed the moſt Or<g ref="char:EOLhyphen"/>thodox, have done before them, expreſſing their Approvall of the Confeſſion of the Aſſemblie at <hi>Westminſter,</hi> and holding forth a Profeſſed Oppoſition to the <hi>Com<g ref="char:EOLhyphen"/>mon Errors,</hi> and <hi>Hereſies</hi> of thoſe times; And, altho our Brethren <hi>in New-England,</hi> who for the Sub<g ref="char:EOLhyphen"/>ſtance, Aſſented fully to the Aſ<g ref="char:EOLhyphen"/>ſemblies Confeſſion, Zealouſly oppugned the Wild Notions of the <hi>Antinomians;</hi> And alſo, tho we our ſelves have frequently Signi<g ref="char:EOLhyphen"/>fyed our Approbation of the <hi>Do<g ref="char:EOLhyphen"/>ctrinal Articles</hi> of the Church of <hi>England,</hi> and the aforeſaid Con<g ref="char:EOLhyphen"/>feſſions, and many of our way have not only <hi>Preached,</hi> but <hi>Written</hi> againſt them, and never hath a Book Containing Errors of <hi>that</hi> or any other ſort, been ſent forth under the Countenance of an <hi>At<g ref="char:EOLhyphen"/>teſtation</hi>
+               <pb n="3" facs="tcp:48612:7" rendition="simple:additions"/>of it's Soundneſs ſubſcri<g ref="char:EOLhyphen"/>bed by any Number of us, and altho our Orthodoxy be ſo mani<g ref="char:EOLhyphen"/>feſt that we cannot want a Wit<g ref="char:EOLhyphen"/>neſs of it in the Conſciences of our Accuſers, yet to the Diſhonour of God, and the Reproach of that Holy Profeſſion, which we, with the reſt of ſound Proteſtants, make of the Truth, and in contradicti<g ref="char:EOLhyphen"/>on to the plaineſt Evidence, are we traduced for being <hi>Antinomi<g ref="char:EOLhyphen"/>ans,</hi> and ſeveral upon this account preſſed againſt their Attendance on our Miniſtry; Whereupon, in Faithfuneſs unto God, and Com<g ref="char:EOLhyphen"/>paſſion to the Souls of Men, as well as for the Clearing our ſelves from ſuch groundleſs, falſe and injurious Imputations, we have thought it expedient to give a juſt Repreſentation of our <hi>Principles</hi> in theſe Points.</p>
+            <pb n="4" facs="tcp:48612:8" rendition="simple:additions"/>
+            <p>But to prevent Miſtakes, We deſire it may be obſerved, that our Deſign is not to profeſs our <hi>Diſlike</hi> of every Doctrine, to which the Name of <hi>Antinomian</hi> hath been given: For we know, that not only <hi>Bellarmine,</hi> with ſundry Pa<g ref="char:EOLhyphen"/>piſts; but the <hi>Socinians,</hi> and other Erroneous Perſons among our <hi>Ac<g ref="char:EOLhyphen"/>cuſers,</hi> too near a kin unto them, have branded ſome of the moſt Important <hi>Truths</hi> of the Goſpel, defended by the <hi>Reformed</hi> againſt the <hi>Inſults</hi> of the <hi>Jeſuits</hi> and their Abettors, as <hi>Antinomian;</hi> Nor in<g ref="char:EOLhyphen"/>deed can we look on the Errours falſely ſaid to be held by us, as Opinions that have found ſo much Reputation, as to gain any Num<g ref="char:EOLhyphen"/>ber of Learned Men to ſupport them, they being for the moſt part the <hi>Off-ſpring</hi> of the <hi>Brains</hi> of <hi>ſome Popiſh</hi> and other Heretical Wri<g ref="char:EOLhyphen"/>ters,
+<pb n="5" facs="tcp:48612:8"/>who, in their Diſputes with <hi>Proteſtants,</hi> have firſt affirm'd 'em to be <hi>Conſequences,</hi> eaſily deduced from <hi>Principles,</hi> entertained by us, and then repreſented as <hi>Doctrines,</hi> which we have eſpouſed.</p>
+            <p>But, yet ſeveral of 'em have had Parents to own and cheriſh them; and have not been <hi>miſnamed,</hi> which nevertheleſs we ſhall conſider only as charged upon us; and endea<g ref="char:EOLhyphen"/>vour to ſhew, not only, that we never entertained, or gave coun<g ref="char:EOLhyphen"/>tenance unto them, but, that in our <hi>Writings,</hi> and by the <hi>Articles</hi> and <hi>Confeſſions,</hi> which we have de<g ref="char:EOLhyphen"/>liberately and readily ſubſcribed unto, we have, from time to time, Publickly given our <hi>Teſtimony a<g ref="char:EOLhyphen"/>gainst</hi> them; whereby it will ap<g ref="char:EOLhyphen"/>pear; that as there hath not been the leaſt Colour or Pretence for our Accuſers, ſo boldly to Pub<g ref="char:EOLhyphen"/>liſh
+<pb n="6" facs="tcp:48612:9" rendition="simple:additions"/>their Inſinuations and Charges againſt us, ſo it muſt be acknow<g ref="char:EOLhyphen"/>ledged, that there is ſomewhat at bottom, not obvious to every one's View, that influences them hereunto; which, whether it be the more eaſie to conceal; and under a <hi>Covert,</hi> the more effectu<g ref="char:EOLhyphen"/>ally to inſtill and propagate Er<g ref="char:EOLhyphen"/>rours of an <hi>Arminian Nature</hi> and <hi>Tendency,</hi> we leave to Impartial Obſervers to determine; who, we doubt not, will ſoon be convin<g ref="char:EOLhyphen"/>ced, that what is here ſuggeſted is too <hi>True,</hi> ſeeing they did not lay <hi>Antinomian</hi> Errours to our Charge, until we expreſſed our <hi>Diſſatisfa<g ref="char:EOLhyphen"/>ction</hi> about their <hi>Arminian</hi> and o<g ref="char:EOLhyphen"/>ther hurtful <hi>Opinions.</hi>
+            </p>
+            <p>But what Judgment ſoever any ſhall paſs on their <hi>Methods</hi> and <hi>De<g ref="char:EOLhyphen"/>ſigns,</hi> we will ſet down the Er<g ref="char:EOLhyphen"/>rours, they ſay we Hold, and
+<pb n="7" facs="tcp:48612:9" rendition="simple:additions"/>ſhew <hi>How</hi> and <hi>Where</hi> we have <hi>wit<g ref="char:EOLhyphen"/>neſſed</hi> againſt them.</p>
+            <list>
+               <head>The ERRORS.</head>
+               <item n="1">§. 1. That the Eternal Decree gives ſuch an Exiſtence to the <hi>Ju<g ref="char:EOLhyphen"/>ſtification</hi> of the <hi>Elect,</hi> as makes their <hi>Eſtate,</hi> whilſt in Unbelief to be the ſame as when they do be<g ref="char:EOLhyphen"/>lieve, in all reſpects, ſave only as to the <hi>Manifeſtation;</hi> and that there is no other <hi>Juſtification</hi> by Faith, but what is in their Con<g ref="char:EOLhyphen"/>ſciences.</item>
+               <item n="2">§. 2. That the <hi>Elect,</hi> conſider<g ref="char:EOLhyphen"/>ed as in their Natural Eſtate, or as in the firſt <hi>Adam,</hi> are not under the <hi>Denunciation</hi> of Wrath by the Law, as well as other Unbeliev<g ref="char:EOLhyphen"/>ing and Impenitent Sinners are.</item>
+               <item n="3">§. That pardoned Sin is no Sin, and therefore God can't ſee Sin in
+<pb n="8" facs="tcp:48612:10"/>his People, to be diſpleaſed with them for their <hi>Sins;</hi> nor doth God expreſs his Fatherly <hi>Diſpleaſure</hi> a<g ref="char:EOLhyphen"/>gainſt them by any Afflictions laid upon them.</item>
+               <item n="4">§. 4. That Believers are not bound to <hi>Confeſs,</hi> or <hi>mourn</hi> over Sin, as committed by them; or pray for pardon of Sin, in ma<g ref="char:EOLhyphen"/>king daily Acknowledgment of a Need of it, becauſe 'twas pardon<g ref="char:EOLhyphen"/>ed before committed, and par<g ref="char:EOLhyphen"/>doned Sin is no Sin.</item>
+               <item n="5">§. 5. That Believers ought not to be afraid of committing Sin, be<g ref="char:EOLhyphen"/>cauſe their Sins can do them no hurt.</item>
+               <item n="6">§. 6. That they muſt do no good Work, or Duty, for their own benefit, nor with an Eye unto their own Salvation.</item>
+               <item n="7">§. 7. <hi>Believers</hi> not having in themſelves an Ability to do good
+<pb n="9" facs="tcp:48612:10" rendition="simple:additions"/>Works, are not bound to perform any good Duty, unleſs excited thereunto by a ſpecial Motion of the Spirit.</item>
+               <item n="8">§. 8. That Sanctification, evi<g ref="char:EOLhyphen"/>denced by the Spirit of God to their Conſciences, is not a Sign, Mark, or Evidence of their Juſti<g ref="char:EOLhyphen"/>fication; and that Marks and Signs for the tryal of a <hi>Believer's</hi> Faith, are of no uſe: For, Faith lying in a full Perſwaſion, and Aſſurance, that their Perſons were <hi>Actually Juſtified,</hi> and <hi>Pardoned</hi> in Chriſt, it is a Sin to Queſtion, Whether they do Savingly believe, or no?</item>
+               <item n="9">§. 9. That Goſpel-Miniſters are not to Preach the <hi>Law,</hi> in its <hi>Com<g ref="char:EOLhyphen"/>mands,</hi> and <hi>Curſes,</hi> to convince Men of their need of Chriſt; nor are <hi>Believers</hi> obliged to Regard the <hi>Law,</hi> as delivered by <hi>Moſes;</hi> nor as Externally propounded; nor
+<pb n="10" facs="tcp:48612:11"/>are they bound when they commit Sin, to look to the Law for fur<g ref="char:EOLhyphen"/>ther Diſcoveries, and Convictions of the remaining Corruptions that are in them; becauſe by the Go<g ref="char:EOLhyphen"/>ſpel, its Obligations are diſſol<g ref="char:EOLhyphen"/>ved.</item>
+               <item n="10">§. 10. That Miniſters of the Goſpel ought not to propound the <hi>Offers</hi> of Salvation unto all thoſe to whom God calls them to Preach, ſeriouſly Inviting them to Im<g ref="char:EOLhyphen"/>prove the Means of Grace, that they may be Saved; and aſſuring them in the way of their Miniſte<g ref="char:EOLhyphen"/>rial Duty of the Salvation of all ſuch as believe in Chriſt, becauſe they want Ability to cloſe with the Offer; and all ſhall not be ſa<g ref="char:EOLhyphen"/>ved.</item>
+               <item n="11">§. 11. That by God's laying our <hi>Sins</hi> upon Chriſt, he became every way as ſinful as we; and we every
+<pb n="11" facs="tcp:48612:11"/>way as Righteous and Holy as he; and that therefore Perſons may expect to be pardoned whilſt they continue in a State of Unbelief and Impenitence; and that continued Repentance and Holineſs, are not in the Nature of the Thing; nor by the Conſtitution of the <hi>Goſpel,</hi> neceſſary to our being poſſeſſed of Eternal Life.</item>
+            </list>
+            <p>The Oppoſition we have made unto theſe Errours, may be ſeen in our <hi>Confeſſion</hi> at the <hi>Savoy,</hi> as alſo in the Writings of our Brethren, both at Home, and in <hi>New-Eng<g ref="char:EOLhyphen"/>land;</hi> particularly in the Books of the Celebrated Dr. <hi>Goodwin,</hi> and Dr. <hi>Owen,</hi> as we will diſtinctly e<g ref="char:EOLhyphen"/>vince by oppoſing to theſe Errours what is delivered in the foreſaid Confeſſion, and Writings.</p>
+            <div type="part">
+               <pb n="12" facs="tcp:48612:12"/>
+               <head>The First and Second Errours.</head>
+               <p n="1">1. That the Eternal Decree gives ſuch a Real Exiſtence to the <hi>Juſtification</hi> of the <hi>Elect,</hi> as makes their <hi>State,</hi> whilſt in Unbelief, to be the ſame as when they do be<g ref="char:EOLhyphen"/>lieve, in all Reſpects ſave as to Ma<g ref="char:EOLhyphen"/>nifeſtation, and that there is no other Juſtification by Faith, but what is in their Conſciences.</p>
+               <p n="2">2. That the Elect, conſidered as in their Natural Eſtate, or as in the <hi>First Adam,</hi> are not under the Denunciation of Wrath by the Law, as well as other Unbeliev<g ref="char:EOLhyphen"/>ing, and Impenitent Sinners.</p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p n="1">1. That there is a Difference between the Eſtate of the Elect,
+<pb n="13" facs="tcp:48612:12"/>whilſt in Unbelief, and when Be<g ref="char:EOLhyphen"/>lievers, beſides what is manifeſta<g ref="char:EOLhyphen"/>tive to their Conſciences.</p>
+                  <p n="2">2. That before they believe they are not <hi>Perſonally,</hi> and <hi>Actu<g ref="char:EOLhyphen"/>ally</hi> Juſtified in the Court of Hea<g ref="char:EOLhyphen"/>ven, but by believing they are ſo Juſtified.</p>
+                  <p n="1">1. The Learned Dr. <hi>Goodwin,</hi> in the <hi>Fourth Volume of his Works,</hi> about the <hi>Objects,</hi> and <hi>Acts</hi> of <hi>Ju<g ref="char:EOLhyphen"/>ſtifying Faith, Part</hi> 1. <hi>Book</hi> 1. <hi>Chap.</hi> 15. hath in the following Words, given our true and Genuine Senſe about this Important Point: For there he <hi>Diſcourſing of Juſtification</hi> from <hi>Eternity,</hi> and in <hi>Christ,</hi> ſaith; <q> We are in our <hi>own Perſons,</hi> made <hi>True Owners</hi> and Injoyers of <hi>Ju<g ref="char:EOLhyphen"/>ſtification,</hi> at that <hi>Inſtant</hi> when we <hi>first Believe;</hi> which <hi>Act</hi> is the Completion, and Accom<g ref="char:EOLhyphen"/>pliſhment of the former, and is
+<pb n="14" facs="tcp:48612:13"/>that <hi>Great</hi> and <hi>Famous <hi>Juſti<g ref="char:EOLhyphen"/>fication</hi>
+                        </hi> by <hi>Faith,</hi> which the Scrip<g ref="char:EOLhyphen"/>ture ſo much <hi>Inculcates,</hi> and al<g ref="char:EOLhyphen"/>moſt <hi>only mentioneth,</hi> yea, and ſo ſpeaks of it, as if we <hi>were not Juſtified at all till then:</hi> So 1 Cor. 6.9. <hi>Such were ſome of you, but <hi>now</hi> ye are Sanctified, <hi>now</hi> ye are Juſtified;</hi> which <hi>before they were not</hi>—And <hi>therefore before Faith,</hi> the Scripture <hi>Pronounceth</hi> the very <hi>Elect,</hi> even thoſe whom Chriſt Died for, <hi>Children of Wrath as well as others, <hi>till they Be<g ref="char:EOLhyphen"/>lieve,</hi>
+                        </hi> Epheſ. 2.3. So as when we were ſaid to be <hi>Juſtified by Faith,</hi> it <hi>is not only becauſe then Faith <hi>Apprehends that Ju<g ref="char:EOLhyphen"/>ſtification which was in God's Breast before,</hi>
+                        </hi> and that <hi>then</hi> we are Ju<g ref="char:EOLhyphen"/>ſtified <hi>merely</hi> in <hi>Ford Conſcien<g ref="char:EOLhyphen"/>tiae,</hi> tho we were in <hi>Foro Dei,</hi> as much as ever (as ſome expreſs
+<pb n="15" facs="tcp:48612:13"/>it;) But <hi>further</hi> it muſt be ſaid, that even <hi>in Foro Dei,</hi> in God's Court, and according to the Judg<g ref="char:EOLhyphen"/>ment of that <hi>Open Court,</hi> which God hath ſet up in his <hi>Word,</hi> and according to the Proceedings of his <hi>Word,</hi> (which is the <hi>Rule</hi> he profeſſeth to Judge Men by, and therein he keeps to the <hi>Rule</hi> of his <hi>Word,</hi> as Chriſt ſaith, <hi>I Judge no Man; but the <hi>Word</hi> which I ſpeak, ſhall Judge you,</hi> John 12.47, 48.) God doth <hi>Judge</hi> and <hi>Pronounce</hi> his <hi>Elect <hi>
+                              <g ref="char:V">Ʋ</g>ngodly,</hi>
+                        </hi> and <hi>
+                           <g ref="char:V">Ʋ</g>njuſtified, till they Believe;</hi> yea, and by the <hi>Spirit of</hi> Bondage he <hi>Teſtifieth</hi> to their <hi>Conſciences,</hi> that before Faith they are <hi>
+                           <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>godly,</hi> and <hi>Vnjuſtified,</hi> and Children of Wrath: If it were not a <hi>Real Truth,</hi> the Spirit <hi>of God would not evidence this to them.</hi>
+                     </q>
+                  </p>
+                  <pb n="16" facs="tcp:48612:14"/>
+                  <p n="2">2. What Dr. <hi>Goodwin</hi> here af<g ref="char:EOLhyphen"/>firms, is conſonant to what 'tis declared, in the <hi>Savoy Confeſſion:</hi> For, in <hi>Cap.</hi> 11. §. 4. it is thus. <q> God did from all Eternity <hi>De<g ref="char:EOLhyphen"/>cree</hi> to <hi>Juſtifie</hi> all the Elect, and <hi>Christ</hi> did, in the fulneſs of Time, Die for their Sins, and riſe again for their <hi>Juſtification:</hi> Nevertheleſs they are not <hi>Iu<g ref="char:EOLhyphen"/>ſtified Perſonally,</hi> until the <hi>Holy Spirit</hi> doth in due time <hi>a<g ref="char:EOLhyphen"/>ctually Apply</hi> Chriſt unto them.</q> And, as in <hi>Cap.</hi> 3. §. 6. <q>They ha<g ref="char:EOLhyphen"/>ving <hi>fall'n</hi> in <hi>Adam,</hi> are by their <hi>Original,</hi> and <hi>Actual</hi> Sins <hi>Bound</hi> over to the <hi>Wrath of God,</hi> and <hi>Curſe of the Law,</hi> and are made ſubject to Death, with all <hi>Miſe<g ref="char:EOLhyphen"/>ries, Spiritual, Temporal</hi> and <hi>E<g ref="char:EOLhyphen"/>ternal.</hi> So, <hi>Cap.</hi> 6. §. 6.</q> Thus they <hi>continue,</hi> till they are <hi>Effe<g ref="char:EOLhyphen"/>ctually</hi> called; as in <hi>Cap.</hi> 10. §. 1.
+<pb n="17" facs="tcp:48612:14"/>
+                     <q> All thoſe, whom God hath <hi>Pre<g ref="char:EOLhyphen"/>deſtinated</hi> unto Life, and only thoſe he is pleaſed in his Ap<g ref="char:EOLhyphen"/>pointed time <hi>effectually to call</hi> by his Word and Spirit <hi>out of that State of Sin and Death,</hi> in which they are by Nature, to <hi>Grace</hi> and <hi>Salvation</hi> by <hi>Jeſus Christ.</hi>
+                     </q> Beſides, as it is expreſly ſaid <hi>Cap.</hi> 1. §. 4. That they are not <hi>Perſonally Ju<g ref="char:EOLhyphen"/>ſtified</hi> till Chriſt be Actually Ap<g ref="char:EOLhyphen"/>plied unto them: So in the ſame <hi>Chap.</hi> §. 1. 'tis declared, <q>That thoſe whom God <hi>effectually cal<g ref="char:EOLhyphen"/>leth,</hi> he alſo <hi>Freely Juſtifieth</hi>— by <hi>Imputing</hi> Chriſt's Active Obe<g ref="char:EOLhyphen"/>dience unto the whole Law, and Paſſive Obedience in his Death for their whole and ſole Righ<g ref="char:EOLhyphen"/>teouſneſs; <hi>they <hi>Receiving</hi>
+                        </hi> and <hi>Reſting <hi>on him,</hi>
+                        </hi> and <hi>his <hi>Righ<g ref="char:EOLhyphen"/>teouſneſs</hi>
+                        </hi> by <hi>Faith.</hi>
+                     </q> And in the very next Section; <q>
+                        <hi>Faith</hi>
+                        <pb n="18" facs="tcp:48612:15"/> thus <hi>Receiving</hi> and <hi>Reſting</hi> on Chriſt, and his Righteouſneſs is the <hi>alone <hi>Inſtrument</hi>
+                        </hi> of <hi>Juſti<g ref="char:EOLhyphen"/>fication;</hi> yet it is not <hi>alone</hi> in the Perſon <hi>Juſtified,</hi> but is ever ac<g ref="char:EOLhyphen"/>companied with <hi>all other Saving Graces;</hi> and is no Dead Faith, but <hi>worketh</hi> by <hi>Love.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Third and Fourth Errours.</head>
+               <p n="3">
+                  <q> 3. That Pardoned Sin is no Sin; and therefore God can't ſee Sin in his People to be <hi>Diſ<g ref="char:EOLhyphen"/>pleaſed</hi> with them for their Sins; nor doth God expreſs his Fatherly <hi>Diſpleaſure</hi> againſt them by <hi>any</hi> Afflictions laid upon them.</q>
+               </p>
+               <p n="4">
+                  <q> 4. That Believers are not Bound to <hi>Confeſs,</hi> or <hi>Mourn over Sin,</hi> as committed by them, or <hi>Pray for Pardon</hi> of Sin, in mak<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:48612:15" rendition="simple:additions"/>a Daily Acknowledgment of a Need of it, becauſe 'twas Par<g ref="char:EOLhyphen"/>doned before committed, and <hi>Pardoned</hi> Sin is no Sin.</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>We have always held:</p>
+                  <list>
+                     <item>1. That <hi>Pardoned,</hi> yea, <hi>Morti<g ref="char:EOLhyphen"/>fied</hi> Sins, are <hi>truly</hi> and <hi>properly Sins.</hi>
+                     </item>
+                     <item>2. That God ſeeth the Sins of his own People, and is <hi>Diſplea<g ref="char:EOLhyphen"/>ſed</hi> with them for their Sins.</item>
+                     <item>3. That when Believers do ſin, it is their Duty to <hi>humble</hi> them<g ref="char:EOLhyphen"/>ſelves, <hi>Confeſs</hi> their Sins, and <hi>pray</hi> for <hi>Pardon.</hi>
+                     </item>
+                  </list>
+                  <p>The Declaration of our Faith, at the <hi>Savoy,</hi> is ſo diſtinct, and full againſt theſe Errours, that who<g ref="char:EOLhyphen"/>ever will conſult the following Paſſages taken out of it, cannot
+<pb n="20" facs="tcp:48612:16"/>but think himſelf bound in Con<g ref="char:EOLhyphen"/>ſcience to own our Orthodoxy: For, in <hi>Cap.</hi> 6. §. 4. we affirm, <q> That the <hi>Corruption</hi> of Nature, during this Life, doth remain in thoſe that are <hi>Regenerated;</hi> and <hi>altho it be through Christ <hi>Par<g ref="char:EOLhyphen"/>doned</hi>
+                        </hi> and <hi>Mortified,</hi> yet both <hi>it ſelf, <hi>and all the Motions thereof,</hi>
+                        </hi> are <hi>Truly</hi> and <hi>Properly <hi>Sin.</hi>
+                        </hi> In <hi>Cap.</hi> 11. §. 5. God doth <hi>conti<g ref="char:EOLhyphen"/>nue</hi> to <hi>Forgive</hi> the Sins of thoſe that are <hi>Juſtified;</hi> and altho they can never fall from the State of <hi>Juſtification;</hi> yet they may by <hi>their Sins fall under <hi>God's Fa<g ref="char:EOLhyphen"/>therly Diſpleaſure;</hi>
+                        </hi> and in that Condition, they have not uſually the Light of his Counte<g ref="char:EOLhyphen"/>nance Reſtored unto them, <hi>until they <hi>humble</hi> themſelves, <hi>Con<g ref="char:EOLhyphen"/>feſs</hi> their Sins, <hi>Beg Pardon,</hi>
+                        </hi> and <hi>Renew</hi> their <hi>Faith</hi> and <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi>
+                        <pb n="21" facs="tcp:48612:16" rendition="simple:additions"/>In <hi>Cap.</hi> 15. § 2, 3. Where<g ref="char:EOLhyphen"/>as there is none that doth Good, and <hi>Sinneth not,</hi> and the beſt of Men may through the Power and Deceitfulneſs of their <hi>Cor<g ref="char:EOLhyphen"/>ruptions,</hi> dwelling in them, with the Prevalency of Temptation, fall into <hi>Great Sins</hi> and <hi>Pro<g ref="char:EOLhyphen"/>vocations;</hi> God hath, in the <hi>Covenant of Grace,</hi> mercifully pro<g ref="char:EOLhyphen"/>vided, that <hi>Believers</hi> ſo <hi>Sin<g ref="char:EOLhyphen"/>ning,</hi> and <hi>Falling,</hi> be <hi>Renewed through <hi>Repentance</hi>
+                        </hi> unto Sal<g ref="char:EOLhyphen"/>vation. That this <hi>Saving Repen<g ref="char:EOLhyphen"/>tance</hi> is an <hi>Evangelical</hi> Grace, whereby a Perſon being by the Holy Ghoſt made <hi>ſenſible</hi> of the manifold Evils of his Sin, doth by Faith in Chriſt <hi>Humble <hi>him<g ref="char:EOLhyphen"/>ſelf</hi>
+                        </hi> for it, with <hi>Godly Sor<g ref="char:EOLhyphen"/>row, Deteſtation <hi>of it,</hi>
+                        </hi> and <hi>Self Abhorrency, Praying <hi>for Pardon,</hi>
+                        </hi> and <hi>Strength of Grace,</hi> &amp;c.</q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:48612:17" rendition="simple:additions"/>
+               <head>The Fifth Errour.</head>
+               <p n="5">
+                  <q> 5. That Believers ought not to be <hi>afaid</hi> of committing Sin, becauſe their <hi>Sins</hi> can do them no hurt.</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>If the <hi>Sins</hi> of Believers do Impair their <hi>Graces</hi> and <hi>Comforts; harden</hi> their Hearts, wound their Conſciences, hurt and ſcandalize others, <hi>Grieve</hi> God's Holy Spirit, Expoſe to his <hi>Fatherly Diſ<g ref="char:EOLhyphen"/>pleaſure,</hi> and bring Temporal Judgments too upon them; then ſurely their Sins <hi>hurt them,</hi> and they ſhould be <hi>Afraid to commit them;</hi> and if we have declared thus much in our <hi>Confeſſion,</hi> 'tis ſufficient to clear us from this <hi>Im<g ref="char:EOLhyphen"/>putation.</hi>
+                     <pb n="23" facs="tcp:48612:17" rendition="simple:additions"/>And that we have free<g ref="char:EOLhyphen"/>ly and readily owned thus much, is plain from what is in <hi>Cap.</hi> 5. §. 5. <q> The Moſt Wiſe and Gracious God doth oftentimes leave for a Seaſon, <hi>his own Children,</hi> to <hi>Manifold</hi> Temptations, and the <hi>Corruptions</hi> of their own Hearts, to <hi>Chaſtiſe</hi> them for <hi>their</hi> for<g ref="char:EOLhyphen"/>mer <hi>Sins,</hi> or to Diſcover to them the hidden ſtrength of Corrup<g ref="char:EOLhyphen"/>tion and Deceitfulneſs of <hi>their Hearts,</hi> that <hi>they may be Humbled</hi> —and to <hi>make them <hi>more Watchful againſt all Future Occaſions of Sin.</hi>
+                        </hi>—In <hi>Cap.</hi> 17. § 3. And tho they may— fall into <hi>Grievous</hi> Sins, and for a time continue therein, whereby they <hi>Incur God's <hi>Diſpleaſure,</hi>
+                        </hi> and <hi>Grieve his Holy Spirit,</hi> come to have their <hi>Graces</hi> and <hi>Com<g ref="char:EOLhyphen"/>forts</hi> Impaired, have <hi>their Hearts
+<pb n="24" facs="tcp:48612:18" rendition="simple:additions"/>
+                           <hi>Hardned,</hi>
+                        </hi> and their <hi>Conſciences <hi>Wounded,</hi> Hurt</hi> and Scandalize others, and bring <hi>Temporal Judg<g ref="char:EOLhyphen"/>ments upon them Selves;</hi> yet they are, and ſhall be kept by the <hi>Power <hi>of God, through</hi> Faith <hi>unto Salvation.</hi>
+                        </hi> What can be more oppoſite unto this <hi>Errour?</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Sixth Errour.</head>
+               <p n="6">
+                  <q> 6. That they muſt do no <hi>Good Work,</hi> or <hi>Duty,</hi> for their own <hi>Benefit;</hi> or with an <hi>Eye</hi> to <hi>their own Salvation.</hi>
+                  </q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>That Believers muſt do good Works, <hi>expecting</hi> Bleſſings in the performance thereof. So in <hi>Chap.</hi> 19. §. 6. <q>Altho True Believers be not under the <hi>Law,</hi> as a Covenant
+<pb n="25" facs="tcp:48612:18"/>of Works—yet is it of great uſe to them, as well as to others, in that, as a <hi>Rule</hi> of Life inform<g ref="char:EOLhyphen"/>ing them of the <hi>Will</hi> of God and their <hi>Duty,</hi> it <hi>Directs,</hi> and <hi>Binds</hi> them to <hi>walk accordingly.</hi> —The <hi>Promiſes</hi> of it in like manner <hi>ſhow them</hi> God's <hi>Approbation</hi> of <hi>O<g ref="char:EOLhyphen"/>bedience,</hi> and what <hi>Bleſſings</hi> they <hi>may <hi>Expect</hi> upon the <hi>Per<g ref="char:EOLhyphen"/>formance</hi> thereof,</hi> altho not as <hi>Due</hi> to them by the <hi>Law,</hi> as a <hi>Covenant of Works;</hi> ſo as a Man's <hi>Doing Good,</hi> and Reforming from Evil, becauſe the Law <hi>Encou<g ref="char:EOLhyphen"/>rageth</hi> to the One, and <hi>Deter<g ref="char:EOLhyphen"/>reth</hi> from the other, is no Evi<g ref="char:EOLhyphen"/>dence of his being <hi>under the Law,</hi> and not <hi>under Grace.</hi> And §. 7. Neither are the forementioned <hi>
+                           <g ref="char:V">Ʋ</g>ſes</hi> of the <hi>Law,</hi> contrary to the Graces of the Goſpel, but do <hi>ſweetly Comply</hi> with it, the
+<pb n="26" facs="tcp:48612:19" rendition="simple:additions"/>
+                        <hi>Spirit of Christ</hi> Subduing and En<g ref="char:EOLhyphen"/>abling the Will of Man to do that freely and chearfully, which the <hi>Will</hi> of God Revealed in the Law, <hi>Required to be done.</hi> And in <hi>Cap.</hi> 16. §. 6. The Per<g ref="char:EOLhyphen"/>ſons of Believers being Accept<g ref="char:EOLhyphen"/>ed through Chriſt, <hi>their <hi>Good Works</hi>
+                        </hi> alſo are <hi>Accepted in him</hi> —God looking upon <hi>them</hi> in <hi>his Son,</hi> is <hi>Pleaſed to <hi>Accept</hi>
+                        </hi> and <hi>Reward <hi>that which</hi>
+                        </hi> is <hi>Sincere,</hi> altho <hi>accompanied</hi> with <hi>many Weakneſſes and Imperfections.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Seventh Errour.</head>
+               <p n="7">
+                  <q> 7. Believers not having in themſelves an <hi>Ability</hi> to do Good Works, are not Bound to Per<g ref="char:EOLhyphen"/>form any good Duty, unleſs Ex<g ref="char:EOLhyphen"/>cited thereunto by a ſpecial <hi>Mo<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Spirit.</hi>
+                  </q>
+               </p>
+               <div type="subpart">
+                  <pb n="27" facs="tcp:48612:19"/>
+                  <head>Our Oppoſition.</head>
+                  <p>We have fully Declared our ſelves againſt this <hi>Errour,</hi> in <hi>Cap.</hi> 16. §. 3. <q>Their <hi>Ability</hi> to do Good Works, is not at all in themſelves, but wholly from the <hi>Spirit</hi> of Chriſt—yet are they not <hi>hereupon</hi> to <hi>grow Negligent,</hi> as <hi>if they <hi>were not Bound</hi>
+                        </hi> to <hi>Perform</hi> any <hi>Duty,</hi> unleſs <hi>upon a <hi>Special</hi> Motion of the Spirit;</hi> but <hi>they ought</hi> to <hi>be <hi>Diligent in Stirring up</hi> the Grace of God that is in them.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Eighth Errour.</head>
+               <p n="8">
+                  <q> 8. That <hi>Sanctification,</hi> eviden<g ref="char:EOLhyphen"/>ced by the Spirit of God to their Conſciences, is not a <hi>Sign, Mark,</hi> or <hi>Evidence</hi> of their <hi>Juſtification;</hi>
+                     <pb n="28" facs="tcp:48612:20" rendition="simple:additions"/>and that Marks and Signs for the Tryal of a Believer's Faith, are of no uſe. For Faith lying in a Full Perſwaſion and Aſſurance, that their <hi>Perſons</hi> were Actually Juſtified and Pardoned in Chriſt, <hi>it</hi> is a Sin to Queſtion, Whether <hi>they</hi> do Savingly Believe, or no?</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>It hath been our conſtant Judg<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="1">1. That ſaving Faith lieth not in a Full Perſwaſion and Aſſurance that our Sins are Actually Par<g ref="char:EOLhyphen"/>doned.</p>
+                  <p n="2">2. That <hi>Marks</hi> and <hi>Signs</hi> for the <hi>Tryals</hi> of our Spiritual <hi>Eſtate,</hi> are <hi>
+                        <g ref="char:V">Ʋ</g>ſeful,</hi> and to be ſought af<g ref="char:EOLhyphen"/>ter.</p>
+                  <p n="3">3. That <hi>Sanctification,</hi> eviden<g ref="char:EOLhyphen"/>ced by the Spirit of God to our
+<pb n="29" facs="tcp:48612:20" rendition="simple:additions"/>Conſciences, is a certain Sign, and Mark of our <hi>Juſtification.</hi>
+                  </p>
+                  <p>To the <hi>First,</hi> the Judicious Dr. <hi>Goodwin</hi> hath in <hi>his Vol.</hi> 4. <hi>Part</hi> 2. <hi>Lib.</hi> 2. <hi>Cap.</hi> 1. delivered our True Senſe, when he ſaith, <q>That that Act of <hi>Faith</hi> which Juſtifieth a Sinner, is <hi>Diſtinct</hi> from know<g ref="char:EOLhyphen"/>ing he hath Eternal Life, and may therefore be without it, be<g ref="char:EOLhyphen"/>cauſe it <hi>doth not neceſſarily contain <hi>Prevailing Aſſurance</hi>
+                        </hi> in it. By <hi>Prevailing Aſſurance,</hi> I mean ſuch an <hi>Aſſurance,</hi> as over<g ref="char:EOLhyphen"/>powreth <hi>Doubts</hi> and <hi>Senſe</hi> to the <hi>contrary,</hi> ſo as in the <hi>Believer's Knowledge</hi> he is able to ſay, <hi>Christ is mine,</hi> and <hi>my Sins are Forgiven;</hi> ſuch an <hi>Aſſurance,</hi> whereby Man is a Conquerour, as <hi>Paul</hi> ſpeaks <hi>Rom.</hi> 8.37.</q> Amongſt the ſeve<g ref="char:EOLhyphen"/>ral Reaſons he gives to prove that True Faith may be without ſuch
+<pb n="30" facs="tcp:48612:21"/>
+                     <hi>Aſſurance,</hi> he preſſeth this, <hi>viz.</hi>
+                     <q> Wicked Men are not bound im<g ref="char:EOLhyphen"/>mediately to have Aſſurance, and therefore it is not the <hi>Eſſential</hi> Act wherein Faith conſiſts. They are Condemned you know, <hi>for not Believing:</hi> Now, if the Firſt Act of <hi>Faith</hi> commanded were to believe <hi>that Christ is mine,</hi> and <hi>that my Sins are Forgiven,</hi> how could a Man in the State of Na<g ref="char:EOLhyphen"/>ture be <hi>Bound</hi> to it? For ſuch an <hi>Aſſurance</hi> of Chriſt's being his, is not <hi>a Truth</hi> in the <hi>State</hi> where<g ref="char:EOLhyphen"/>in he ſtands, but yet he is every Hour bound to come to Chriſt as the Fountain of Life, and caſt himſelf on him for his Pardon.</q>
+                  </p>
+                  <p>What the Doctor here deliver<g ref="char:EOLhyphen"/>eth is agreeable to what is in our Confeſſion, which hath two di<g ref="char:EOLhyphen"/>ſtinct <hi>Chapters,</hi> the 14th about <hi>ſa<g ref="char:EOLhyphen"/>ving Faith,</hi> and the 18th of <hi>the
+<pb n="31" facs="tcp:48612:21" rendition="simple:additions"/>Aſſurance</hi> of <hi>Grace</hi> and <hi>Salvation;</hi> giving diſtinct Definitions of each, and clearing it; that Aſſurance is not an <hi>Eſſential</hi> of Saving Faith, and that Faith doth not, in all, grow up to the Attainment of a <hi>Full Aſſurance,</hi> affirming, <q>That the <hi>principal Acts</hi> of <hi>ſaving Faith</hi> are <hi>Accepting, Receiving,</hi> and <hi>Reſting</hi> upon <hi>Christ alone for Ju<g ref="char:EOLhyphen"/>ſtification, Sanctification,</hi> and <hi>Eter<g ref="char:EOLhyphen"/>nal Life,</hi> by Vertue of the Co<g ref="char:EOLhyphen"/>venant of <hi>Grace,</hi> §. 2. And <hi>chap.</hi> 18. §. 3. This Infallible Aſſu<g ref="char:EOLhyphen"/>rance doth not belong to the <hi>Eſſence</hi> of <hi>Faith,</hi> but that a <hi>True Believer may wait long,</hi> and Con<g ref="char:EOLhyphen"/>flict with many Difficulties be<g ref="char:EOLhyphen"/>fore he be Partaker of it.</q>
+                  </p>
+                  <p>To the ſecond and third, Dr. <hi>Goodwin,</hi> in the Place but now cited, <hi>cap.</hi> 5. goeth on to conſider, <q> What the Apoſtle <hi>John</hi> hath writ<g ref="char:EOLhyphen"/>ten,
+<pb n="32" facs="tcp:48612:22" rendition="simple:additions"/>that may help a <hi>Believer</hi> to this <hi>Aſſurance;</hi> what <hi>Directions,</hi> what <hi>Helps,</hi> what <hi>Evidence</hi> he has deſcribed, whereby he may come to be <hi>Aſſured</hi> —it directs them to <hi>two Trinities</hi> of <hi>Wit<g ref="char:EOLhyphen"/>neſſes,</hi> where <hi>three</hi> are in Hea<g ref="char:EOLhyphen"/>ven, and <hi>three</hi> on Earth: For I take it, that all theſe <hi>ſix <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi>
+                        </hi> have their <hi>Evidence</hi> ſet to <hi>one Record;</hi> both that Chriſt is the Fountain of Life, and that God <hi>hath given to a Believer Eter<g ref="char:EOLhyphen"/>nal Life.</hi>
+                     </q> And a little after the Doctor inſiſts on <hi>Sanctification</hi> as the <hi>ſecond Witneſs</hi> on Earth. <q>The ſecond Witneſs (ſaith he) is the <hi>Work</hi> and <hi>Workings</hi> of <hi>Sancti<g ref="char:EOLhyphen"/>fication, <hi>[Water]</hi>
+                        </hi> the Believer finds that cloſing thus with Chriſt <hi>changeth him, Renews him,</hi> waſh<g ref="char:EOLhyphen"/>eth him from the Power of Sin, puts a new Spirit and Principle
+<pb n="33" facs="tcp:48612:22" rendition="simple:additions"/>into him —Every Grace is a <hi>ſtream</hi> in him, and all his Graces do <hi>Teſtify,</hi> alſo if they be <hi>obſer<g ref="char:EOLhyphen"/>ved:</hi> Read this Epiſtle of <hi>John,</hi> you will find he cuts this <hi>Water</hi> into many Rills and Signs, in every of which as ſo <hi>many <hi>Signs,</hi>
+                        </hi> Believers may ſee and have ſome <hi>Evidence</hi> of their <hi>Eſtates.</hi>
+                     </q> So far the <hi>Doctor,</hi> who ſtill keeps cloſe unto our <hi>Confeſſion;</hi> in which, particularly <hi>chap.</hi> 18. §. 1. it's ſaid, <q>Altho Temporary Be<g ref="char:EOLhyphen"/>lievers, and other Unregenerate Men may <hi>vainly deceive</hi> them<g ref="char:EOLhyphen"/>ſelves with <hi>falſe Hopes</hi> and <hi>Carnal Preſumptions</hi> of being in the <hi>Fa<g ref="char:EOLhyphen"/>vour</hi> of God, and State of <hi>Salva<g ref="char:EOLhyphen"/>tion,</hi> which Hope of theirs ſhall Periſh:</q> Thus they ſhew what <hi>falſe Hopes</hi> and <hi>carnal Preſumptions</hi> ſome Unregenerate Men may have. To which they add, §. 3.
+<pb n="34" facs="tcp:48612:23" rendition="simple:additions"/>
+                     <q> That a Believer being enabled by the Spirit to <hi>know</hi> the Things which are freely given him of God, he may, (without Extraor<g ref="char:EOLhyphen"/>dinary Revelation) in <hi>the Right uſe of ordinary Means</hi> attain thereun<g ref="char:EOLhyphen"/>to: And therefore it is the Duty of every one to give all Diligence to make his Calling and Election ſure; which (as in §. 1, 2.) can<g ref="char:EOLhyphen"/>not be but by Endeavouring to Walk in all Good Conſcience be<g ref="char:EOLhyphen"/>fore the Lord Jeſus.</q> For, <q>This Certainty is not a bare Conjectu<g ref="char:EOLhyphen"/>ral and Probable Perſwaſion, grounded upon a <hi>Fallible Hope,</hi> but an Infallible Aſſurance of Faith, founded on the Blood and Righteouſneſs of Chriſt, re<g ref="char:EOLhyphen"/>vealed in the Goſpel; and alſo upon the <hi>Inward Evidence</hi> of <hi>thoſe <hi>Graces,</hi>
+                        </hi> unto which Promiſes are made, and on the
+<pb n="35" facs="tcp:48612:23" rendition="simple:additions"/>
+                        <hi>Immediate Witneſs</hi> of the Spirit, <hi>Teſtifying</hi> our Adoption, and as a Fruit thereof leaving the Heart more <hi>Humble</hi> and Holy. And in <hi>cap.</hi> 6.2.</q> 
+                     <q>Good Works done in Obedience to God's Command<g ref="char:EOLhyphen"/>ments, are the <hi>Fruits</hi> and <hi>Evi<g ref="char:EOLhyphen"/>dences</hi> of a <hi>True</hi> and <hi>Lively Faith,</hi> and by them Believers— <hi>ſtrengthen</hi> their <hi>Aſſurance.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Ninth Errour.</head>
+               <p n="9">
+                  <q> 9. That Goſpel Miniſters are not to Preach the <hi>Law</hi> in its <hi>Com<g ref="char:EOLhyphen"/>mands</hi> and <hi>Curſes,</hi> to convince Men of their need of Chriſt; nor are Believers obliged to regard the Law as delivered by <hi>Moſes,</hi> nor as <hi>Externally</hi> propounded; nor are they <hi>Bound,</hi> when they commit Sin, to look to the <hi>Law</hi> for further Diſcoveries and Con<g ref="char:EOLhyphen"/>victions
+<pb n="36" facs="tcp:48612:24"/>of the remaining Cor<g ref="char:EOLhyphen"/>ruptions that are in them, becauſe by the <hi>Goſpel</hi> its Obligations are Diſſolved.</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>We hold, 1. That the <hi>Law</hi> delivered by <hi>Moſes,</hi> continues in its <hi>Commands</hi> and <hi>Curſes, <g ref="char:V">Ʋ</g>ndiſ<g ref="char:EOLhyphen"/>ſolv'd.</hi>
+                  </p>
+                  <p n="2">2. That it's ſtill of <hi>uſe</hi> to con<g ref="char:EOLhyphen"/>vince of Sin, that we may ſee a need of Chriſt, and therefore is to be <hi>Preached</hi> and Externally <hi>pro<g ref="char:EOLhyphen"/>pounded;</hi> and we are to look unto it.</p>
+                  <p>To the Firſt, 'Tis very expreſ<g ref="char:EOLhyphen"/>ly declared in our <hi>Confeſſion, cap.</hi> 19. §. 2. <q>That the <hi>Law</hi> written in the Heart, continued to be a <hi>perfect Rule</hi> of Righteouſneſs after the Fall of Man, and was delivered
+<pb n="37" facs="tcp:48612:24"/>by God upon Mount <hi>Sinai,</hi> in Ten Commandments, and writ<g ref="char:EOLhyphen"/>ten in Two <hi>Tables</hi>—commonly called the <hi>Moral-Law,</hi> § 3. And in §. 5.</q> 
+                     <q>The <hi>Moral-Law</hi> doth for ever <hi>Bind <hi>all,</hi>
+                        </hi> as well <hi>Juſtified</hi> Perſons as others, to the <hi>Obedi<g ref="char:EOLhyphen"/>ence thereof;</hi> and that not only in regard to the <hi>Matter</hi> con<g ref="char:EOLhyphen"/>tained in it, but alſo in reſpect of the <hi>Authority</hi> of God the <hi>Crea<g ref="char:EOLhyphen"/>tor,</hi> who gave it: Neither did Chriſt in the Goſpel any way <hi>Diſſolve,</hi> but <hi>much ſtrengthen this Obligation.</hi>
+                     </q>
+                  </p>
+                  <p>To the Second, In this <hi>Chap.</hi> §. 6. <q>Altho True <hi>Believers</hi> be not under this <hi>Law</hi> as a <hi>Covenant of Works,</hi> to be thereby <hi>Juſtified,</hi> or <hi>Condemned;</hi> yet it is of <hi>Great <g ref="char:V">Ʋ</g>ſe</hi> to <hi>them,</hi> as well as to <hi>Others,</hi> in that as a <hi>Rule of Life,</hi> Inform<g ref="char:EOLhyphen"/>ing them of the Will of God,
+<pb n="38" facs="tcp:48612:25" rendition="simple:additions"/>and their Duty, it <hi>Directs</hi> and <hi>Binds</hi> them to Walk accord<g ref="char:EOLhyphen"/>ingly, diſcovering alſo the Sin<g ref="char:EOLhyphen"/>ful Pollutions of their <hi>Nature, Hearts</hi> and <hi>Lives,</hi> ſo as <hi>Examin<g ref="char:EOLhyphen"/>ing</hi> themſelves thereby, they may come to further <hi>Conviction</hi> of <hi>Humiliation</hi> for, and <hi>Hatred</hi> a<g ref="char:EOLhyphen"/>gainſt Sin, together with a <hi>Clearer Sight</hi> of the <hi>Need</hi> they <hi>have of Christ,</hi> and the Perfection of his Obedience: It is likewiſe of uſe to the <hi>Regenerate,</hi> to Re<g ref="char:EOLhyphen"/>ſtrain their <hi>Corruptions,</hi> in that it forbids Sin, and the <hi>Threat<g ref="char:EOLhyphen"/>nings</hi> of it ſerve to ſhow what even <hi>their Sins</hi> deſerve, <hi>&amp;c.</hi>
+                     </q>
+                  </p>
+                  <p>To what is here declared, let us add what is in <hi>cap.</hi> 15. §. 5. and 'twill appear, that it muſt be Un<g ref="char:EOLhyphen"/>derſtood of Preaching; for it's there ſaid, <q>That altho there is no Sin ſo <hi>ſmall,</hi> but it <hi>deſerves Dam<g ref="char:EOLhyphen"/>nation;</hi>
+                        <pb n="39" facs="tcp:48612:25" rendition="simple:additions"/>yet there is no Sin ſo great that it ſhall bring <hi>Damnation</hi> to them that <hi>truly Repent;</hi> which makes the <hi>conſtant <hi>Preaching</hi>
+                        </hi> of <hi>Repentance neceſſary;</hi>
+                     </q> for, there can be no Preaching Repen<g ref="char:EOLhyphen"/>tance, as deſcribed in this <hi>cap.</hi> §. 3. but by Preaching <hi>the Law,</hi> as 'tis <hi>uſeful</hi> to <hi>Convince of Sin for Hu<g ref="char:EOLhyphen"/>miliation,</hi> &amp;c.</p>
+                  <p>Before we proceed to the Tenth Errour, we muſt, if we will Im<g ref="char:EOLhyphen"/>partially deliver the Truth about the <hi>ſtanding Obligation</hi> of the <hi>Law,</hi> declare with the Learned Dr. <hi>Owen,</hi> in his Treatiſe <hi>of Juſtifi<g ref="char:EOLhyphen"/>cation,</hi> p. 201. <q>That that is an <hi>Antinomianiſm of</hi> the <hi>worst</hi> ſort, and moſt derogatory to the <hi>Law of God;</hi> which Affirms it to be diveſted <hi>of its Power,</hi> to <hi>Oblige</hi> unto <hi>Perfect Obedience,</hi> ſo as that what is not ſo, ſhall (as it were,
+<pb n="40" facs="tcp:48612:26" rendition="simple:additions"/>in deſpight <hi>of</hi> the <hi>Law</hi>) be Ac<g ref="char:EOLhyphen"/>cepted as if it were ſo, unto the <hi>End,</hi> for which the Law <hi>Requires</hi> it. There is no <hi>Medium,</hi> but that either the <hi>Law</hi> is utterly <hi>A<g ref="char:EOLhyphen"/>boliſhed,</hi> and ſo there is <hi>no Sin;</hi> for where there is no <hi>Law,</hi> there is no <hi>Tranſgreſſion;</hi> or it muſt be Allowed to require the <hi>ſame O<g ref="char:EOLhyphen"/>bedience</hi> that it did at its firſt In<g ref="char:EOLhyphen"/>ſtitution, and unto the <hi>ſame de<g ref="char:EOLhyphen"/>gree.</hi>
+                     </q> Thus much we thought <hi>needful</hi> to mention, that whilſt we are declaring our ſelves againſt thoſe Errours which are common<g ref="char:EOLhyphen"/>ly called <hi>Antinomian,</hi> the worſt Part <hi>of Real</hi> Antinomianiſm <hi>might</hi> not eſcape the mention of our Ab<g ref="char:EOLhyphen"/>horring it; which yet ſome of our Accuſers are for.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:48612:26"/>
+               <head>The Tenth Errour.</head>
+               <p n="10">
+                  <q> 10. That Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel ought not to propound the <hi>Offers</hi> of Salvation unto all thoſe to whom God calls them to Preach; ſeriouſly Inviting them to Improve the Means of Grace, that they may be Saved; and aſſuring them in the way of their Miniſterial Duty of the Salva<g ref="char:EOLhyphen"/>tion of all ſuch as believe in Chriſt, becauſe they want Abi<g ref="char:EOLhyphen"/>lity to cloſe with the Offer; and all ſhall not be ſaved.</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>That tho Men want Ability to Believe Savingly, yet it's the Du<g ref="char:EOLhyphen"/>ty of Goſpel Miniſters to make
+<pb n="42" facs="tcp:48612:27" rendition="simple:additions"/>the Offer, and <hi>Teſtifie</hi> unto them, That whoever Believes and Re<g ref="char:EOLhyphen"/>pents, ſhall be Saved; and that it's the Peoples Duty to make uſe of their Natural Faculties, with ſuch External Means and Work<g ref="char:EOLhyphen"/>ings of the Spirit, as God Affords them, that they may Believe, Re<g ref="char:EOLhyphen"/>pent, and be Saved.</p>
+                  <p>Dr. <hi>Goodwin,</hi> in <hi>Vol.</hi> 4. <hi>Part</hi> 2. <hi>Lib.</hi> 3. <hi>Cap.</hi> 1. is very poſitive, <q> That tho Faith be a Difficult Work, yet we ought to uſe our Endeavours to Believe. As, 1: To cleanſe our Hands and Hearts, taking heed of <hi>Hinde<g ref="char:EOLhyphen"/>rances</hi> and <hi>Impediments,</hi> which may hinder God's working it, or Provoke him to leave off the Work: To Refrain <hi>all</hi> ill Com<g ref="char:EOLhyphen"/>pany—and all Sins of what kind ſoever, which grieve the Spirit. Thus the Apoſtle, <hi>Heb.</hi>
+                        <pb n="43" facs="tcp:48612:27" rendition="simple:additions"/>12.1.— 2. Men may Endea<g ref="char:EOLhyphen"/>vour to be <hi>Humbled</hi> for their Sins, and take ſuch Conſidera<g ref="char:EOLhyphen"/>tions into their Hearts, as may ſerve to <hi>Humble</hi> them; which tho it is not Faith, nor Works, <hi>Faith yet leads to it,</hi> James 4.3 3. There are <hi>Duties</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi> God hath appointed, in which to bring our Hearts be<g ref="char:EOLhyphen"/>fore him, <hi>James</hi> 4.8.—And this alſo Men may do; they may come unto God and Preſent their Souls before him by <hi>Prayer;</hi> by <hi>Hearing</hi> the Word, by <hi>good Con<g ref="char:EOLhyphen"/>ference,</hi> by <hi>Reading,</hi> &amp;c.—But 5. Further, <hi>Souls humbled</hi> are to attempt the <hi>Exerciſe</hi> of the very <hi>Act of Believing:</hi> That is, they are to take Promiſes into their <hi>Thoughts,</hi> and to bring their Hearts to them, to look up to Chriſt, and conſider his Ful<g ref="char:EOLhyphen"/>neſs,
+<pb n="44" facs="tcp:48612:28" rendition="simple:additions"/>and attempt to lay hold upon him—We have an expreſs place for this <hi>Heb.</hi> 4.11.—<hi>v.</hi> 16. The Apoſtle bids them come to the <hi>Throne of Grace,</hi> that they may obtain Mercy; thoſe, <hi>that had not yet</hi> obtained it, <hi>must come</hi> that they may obtain it. But you will ſay, <hi>We cannot come:</hi> Why come, ſays he, to obtain <hi>Help</hi> it <hi>ſelf,</hi> in the next Words. So <hi>Heb.</hi> 12.2. He Exhorts them to look to Jeſus the <hi>Beginner</hi> of their Faith, as well as the <hi>Fi<g ref="char:EOLhyphen"/>niſher.</hi> And my Reaſons why Men are to <hi>Endeavour,</hi> and At<g ref="char:EOLhyphen"/>tempt the <hi>Immediate</hi> Acts of <hi>Be<g ref="char:EOLhyphen"/>lieving,</hi> are, 1. Becauſe God commands Men to believe and to come to Chriſt, 1 <hi>John</hi> 3.23. —My Unability to do it a<g ref="char:EOLhyphen"/>right, hinders not, nor frees me from Attempting to do it, and
+<pb n="45" facs="tcp:48612:28" rendition="simple:additions"/>Reaching as <hi>far</hi> as I can. — 2. If <hi>Miniſters</hi> are to preſent <hi>Pro<g ref="char:EOLhyphen"/>miſes</hi> and <hi>Motives</hi> unto Men, then thoſe Conſiderations, Motives, <hi>&amp;c.</hi> which the Miniſters of the Word are to preſent to Hearers and Humbled Souls to <hi>beget Faith in them,</hi> humbled Souls may, and <hi>ought</hi> with Applicati<g ref="char:EOLhyphen"/>on to conſider alone, and digeſt and Exerciſe Thoughts <hi>of Faith</hi> about, <hi>Heb.</hi> 4.12. And tho it be <hi>true,</hi> that <hi>but ſome</hi> ſhall enter in, yet the <hi>Promiſe</hi> is <hi>Indefinitely</hi> made <hi>to all, ver.</hi> 6. And upon that Ground, <hi>ver.</hi> 11. he Ex<g ref="char:EOLhyphen"/>horts all to Labour after <hi>Faith,</hi> to look up to <hi>Jeſus,</hi> as the Au<g ref="char:EOLhyphen"/>thor of <hi>Faith</hi>—And God doth often Engraft true Thoughts of Faith upon the Notions we had <hi>being <g ref="char:V">Ʋ</g>nbelievers,</hi> and changeth them into true Thoughts of
+<pb n="46" facs="tcp:48612:29"/>
+                        <hi>Faith,</hi> whilſt we are Thinking them.</q>
+                  </p>
+                  <p>Now herein alſo the <hi>Doctor</hi> kept to our <hi>Confeſſion:</hi> For in <hi>Cap.</hi> 7. §. 3. it is thus. <q>Man by his Fall having made himſelf Uncapable of <hi>Life</hi> by that Covenant [<hi>viz.</hi> of <hi>Works;</hi>] the Lord was pleaſed to make a <hi>Second,</hi> commonly called, the <hi>Covenant of Grace, <hi>wherein He Freely Offereth unto Sinners,</hi> Life</hi> and <hi>Salvation</hi> by <hi>Jeſus Christ, <hi>Requiring of Them,</hi> Faith in Him, that they may be Saved.</hi>
+                     </q>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Eleventh Errour.</head>
+               <p n="11">
+                  <q> 11. That by God's laying our <hi>Sins</hi> upon Chriſt he became eve<g ref="char:EOLhyphen"/>ry way as <hi>ſinful</hi> as we; and we every way as <hi>Righteous</hi> and Ho<g ref="char:EOLhyphen"/>ly as He; and that therefore
+<pb n="47" facs="tcp:48612:29"/>Perſons may expect to be Par<g ref="char:EOLhyphen"/>doned whilſt they continue in a State of Unbelief and Impeni<g ref="char:EOLhyphen"/>tence; and that continued <hi>Re<g ref="char:EOLhyphen"/>pentance</hi> and Holineſs, are not in the Nature of the Thing, nor by the Conſtitution of the Go<g ref="char:EOLhyphen"/>ſpel neceſſary to our being poſ<g ref="char:EOLhyphen"/>ſeſſed of Eternal Life.</q>
+               </p>
+               <div type="subpart">
+                  <head>Our Oppoſition.</head>
+                  <p>That we may deliver our true Senſe in this great Point, we de<g ref="char:EOLhyphen"/>clare,</p>
+                  <p n="1">1. That our Sins were not laid upon Chriſt, as to make him eve<g ref="char:EOLhyphen"/>ry way as <hi>Sinful</hi> as we,</p>
+                  <p n="2">2. That we are not every way as Righteous as Chriſt.</p>
+                  <p n="3">3. That none may expect to be Pardoned in a State of Unbelief,</p>
+                  <pb n="48" facs="tcp:48612:30"/>
+                  <p n="4">4. That continued Repentance with Holineſs, are <hi>neceſſary</hi> to our Poſſeſſion of Eternal Life.</p>
+                  <p>To the <hi>First,</hi> That <hi>our Sins were <hi>not</hi> ſo laid upon</hi> Chriſt, as to make him <hi>every way</hi> as <hi>ſinful</hi> as we are. For, if Chriſt had been as <hi>compleat<g ref="char:EOLhyphen"/>ly, fully,</hi> and <hi>every</hi> way as <hi>ſinful</hi> as we are, he would have been <hi>In<g ref="char:EOLhyphen"/>herently ſinful,</hi> and <hi>Filthy,</hi> which cannot, without the Guilt of <hi>Blaſphemy,</hi> be Aſſerted.</p>
+                  <p>That it's expreſly Affirm'd by the Holy Ghoſt in Scripture. (1.) <hi>Typically,</hi> in the <hi>Scape Goat,</hi> that all <hi>their Tranſgreſſions,</hi> in <hi>all their Sins,</hi> were put upon Chriſt, <hi>Levit.</hi> 16.21, 22. And, (2.) In the <hi>Prophe<g ref="char:EOLhyphen"/>ſie</hi> of <hi>Iſa.</hi> 53.6. The Lord hath laid upon him the Iniquity of us all. And (3.) In the <hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> The Lord made him who knew no <hi>Sin,</hi> to be <hi>Sin for us,</hi>
+                     <pb n="49" facs="tcp:48612:30"/>2 Cor. 5.21. and a <hi>Curſe, Gal.</hi> 3.13. which we firmly believe to be true, and <hi>neceſſary</hi> to the Lord Jeſus Chriſt's making a <hi>True, Pro<g ref="char:EOLhyphen"/>per, and Full Satisfaction</hi> for our Sins to the <hi>Law,</hi> and Puniſhing Juſtice of God; yet we do moſt ſincerely declare,</p>
+                  <p n="1">1. That when it's ſaid, <hi>Our Ini<g ref="char:EOLhyphen"/>quities, all our Tranſgreſſions in all</hi> our <hi>Sins</hi> were put upon Chriſt, it's not to be underſtood, as if Jeſus Chriſt did <hi>Actually commit</hi> thoſe <hi>Sins,</hi> which were laid upon him; or that God did look upon him un<g ref="char:EOLhyphen"/>der the Conſideration of his being the <hi>Committer</hi> of them.</p>
+                  <p n="2">2. Nothing is more <hi>Abſolutely true</hi> (as Dr. <hi>Owen</hi> expreſſes it, of <hi>Juſtif.</hi> p. 283.) <q>Nothing is more Sacredly, or Aſſuredly Believed by us; than that Nothing which Chriſt did or ſuffered, nothing
+<pb n="50" facs="tcp:48612:31"/>that he undertook, or underwent, did, or could conſtitute him <hi>Inherently,</hi> or thereon <hi>Perſo<g ref="char:EOLhyphen"/>nally</hi> a <hi>Sinner</hi>—That Chriſt ſhould Admit of any thing of <hi>Sin,</hi> in himſelf, as it is abſo<g ref="char:EOLhyphen"/>lutely inconſiſtent with the <hi>Hy<g ref="char:EOLhyphen"/>poſtatical <g ref="char:V">Ʋ</g>nion;</hi> ſo it would ren<g ref="char:EOLhyphen"/>der him unmeet for all other Duties of his Office, <hi>Heb.</hi> 7.25, 26.</q>
+                  </p>
+                  <p n="3">3. There can be no laying of our Sins on Chriſt, <hi>ſo</hi> as to make him <hi>Inherently Polluted,</hi> or <hi>Morally <g ref="char:V">Ʋ</g>nclean</hi> in himſelf, but by a <hi>Phy<g ref="char:EOLhyphen"/>ſical,</hi> or <hi>Natural Tranſlation,</hi> or Transfuſion of our Sin into him, for it would include an Inclinati<g ref="char:EOLhyphen"/>on in him to Sin, which as it is both <hi>Naturally</hi> and <hi>Spiritually</hi> impoſſible; ſo is it Blaſphemous to ſuppoſe; wherefore,</p>
+                  <pb n="51" facs="tcp:48612:31"/>
+                  <p n="4">4. Our Sins were, <hi>in no other</hi> Senſe laid upon Chriſt than by <hi>Imputation;</hi> and touching the <hi>Imputation</hi> of our <hi>Sins to Christ,</hi> we farther declare.</p>
+                  <p n="1">1. That tho God himſelf hath ſaid <hi>Christ</hi> was <hi>made Sin,</hi> and a <hi>Curſe</hi> for us, and it's manifeſt, that 'twas by <hi>Imputation,</hi> yet as Dr. <hi>Goodwin,</hi> Vol. 3. <hi>of Chriſt's Media<g ref="char:EOLhyphen"/>tion, Lib.</hi> 5. <hi>cap.</hi> 1. <hi>pag.</hi> 195. <q>We had need take them in a Right Senſe, or elſe they will be <hi>Bla<g ref="char:EOLhyphen"/>ſphemy</hi> in our Thoughts. —Al<g ref="char:EOLhyphen"/>tho Chriſt was <hi>made <hi>Sin,</hi>
+                        </hi> yet in that he was freely made ſo, therefore <hi>that Imputation ſtained</hi> not him nor his Nature, but he Remained <hi>Holy, <hi>
+                              <g ref="char:V">Ʋ</g>ndefiled,</hi>
+                        </hi> and <hi>Separate</hi> from <hi>Sinners,</hi> wherefore as the <hi>Doctor</hi> goeth on.</q>
+                  </p>
+                  <p n="2">
+                     <q> 2. To free your Thoughts form the leaſt Miſtake, the <hi>Im<g ref="char:EOLhyphen"/>putation
+<pb n="52" facs="tcp:48612:32" rendition="simple:additions"/>of our Sins to Christ,</hi> is not ſuch <hi>as</hi> that whereby <hi>Adam</hi>'s Sin was <hi>Imputed</hi> unto us. —For tho that Sin of his was but <hi>Impu<g ref="char:EOLhyphen"/>tedly</hi> made ours, yet ſo as we be<g ref="char:EOLhyphen"/>ing <hi>One <hi>in Him,</hi>
+                        </hi> are truly ſaid to have ſinned <hi>in him,</hi> Rom. 5.12. and ſo it <hi>ſtained</hi> and <hi>depraved us,</hi> his Poſterity: But of Chriſt we muſt <hi>Abhor</hi> to think ſo. He was not made <hi>Sin <hi>in Vs,</hi>
+                        </hi> but <hi>for us.</hi>
+                     </q> He was not <hi>in us,</hi> nor Deſcended from us, nor Sinned in us, as we are in <hi>Adam</hi> Deſcended from him, and ſinned in him.</p>
+                  <p n="3">3. There is (as Dr. <hi>Owen</hi> has it) a great Difference between the <hi>Imputation</hi> of <hi>our Sin to Christ,</hi> and the <hi>Imputation of Chriſt's Righteouſ<g ref="char:EOLhyphen"/>neſs unto us:</hi> So that he cannot be ſaid to be made a <hi>Sinner</hi> by our <hi>Sin,</hi> as we are made Righteous by his <hi>Righteouſneſs.</hi> Dr. <hi>Goodwin</hi> gives
+<pb n="53" facs="tcp:48612:32"/>this Reaſon for it: <q>His Righte<g ref="char:EOLhyphen"/>ouſneſs is ſo Imputed unto us, as we by reaſon of that Covenant between God and Him, may be ſaid to have <hi>Fulfill'd the Law in him,</hi> and the Law is <hi>ſaid to be fulfill'd</hi> in us, becauſe we were <hi>in him.</hi> But it cannot be ſaid in any ſenſe, He was <hi>made Sin in us,</hi> but <hi>for us</hi> only. For, tho <hi>we</hi> were <hi>in him,</hi> yet not He <hi>in us.</hi> The Root bears the Branches, and not the Branches the Root.</q> So the <hi>Doctor.</hi> To which we add, That Chriſt was a <hi>Publick Perſon to us,</hi> but not we <hi>to him:</hi> And the Apoſtle in 2 Cor. 5.21. <hi>He was made Sin <hi>for us,</hi>
+                     </hi> we <hi>made Righteouſneſs</hi> [not <hi>for,</hi> but] <hi>in Him.</hi>
+                  </p>
+                  <p n="4">4. We hold no other <hi>Imputation</hi> of our Sins to <hi>Chriſt,</hi> than what is com<g ref="char:EOLhyphen"/>monly received by <hi>Proteſtants,</hi> and Inculcated by our Ableſt Divines
+<pb n="54" facs="tcp:48612:33" rendition="simple:additions"/>at Home and Abroad in their Wri<g ref="char:EOLhyphen"/>tings againſt <hi>Papiſts</hi> and <hi>Socinians,</hi> which is, That by the <hi>Imputation</hi> of our Sins unto Chriſt, he became <hi>Accountable</hi> unto God for them; He was made under that <hi>Law</hi> we violated, and our <hi>Guilt</hi> was <hi>charged</hi> upon him; yea, our Sins were the Proper Meritorious Cauſe of his Sufferings, and his Sufferings a proper Puniſhment for our Sins, as a Learned Divine of the Church of <hi>England,</hi>
+                     <note place="margin">Dr. <hi>South.</hi>
+                     </note> in his 3d. <hi>Vol. of Sermons,</hi> p. 488. <q>God, in the whole Procedure of <hi>Chriſt's Sufferings,</hi> muſt be conſidered as a Judge Exacting, and Chriſt as a Perſon paying down a <hi>Recompence</hi> or <hi>Satisfaction</hi> for Sin. For, tho Chriſt was as <hi>Pure</hi> and Undefiled with the <hi>least Spot</hi> of <hi>Sin,</hi> as <hi>Pu<g ref="char:EOLhyphen"/>rity</hi> and <hi>Innocency</hi> it ſelf, yet he was pleaſed to make himſelf the
+<pb n="55" facs="tcp:48612:33"/>
+                        <hi>Greatest Sinner</hi> in the World, by <hi>Imputation,</hi> and rendring himſelf a <hi>Surety Reſponſible</hi> for our <hi>Debts.</hi> For as it is ſaid, 2 Cor. 5.21. <hi>He who knew no Sin, was made Sin for us.</hi> When the Juſtice of God was lifting up the Sword of Ven<g ref="char:EOLhyphen"/>geance over our Heads, Chriſt ſnatch'd us away from the Blow, and <hi>ſubſtituted</hi> his own Body in our <hi>Room,</hi> to receive the <hi>whole Stroke</hi> of that Dreadful Retribu<g ref="char:EOLhyphen"/>tion Inflicted by the Hand of an Angry Omnipotence.</q> Thus far this Learned Doctor. In oppoſition hereunto, <hi>Bellarmine</hi> ſaith, <hi>That by the <hi>Imputation</hi>
+                     </hi> of <hi>Sin unto Christ, he must be <hi>Polluted;</hi>
+                     </hi> and thence be Denominated a <hi>Sinner in every kind:</hi> To which the Anſwer of Dr. <hi>Owen, p.</hi> 277. is full. <q>This would (ſaith he) be true, if our Sins could be <hi>Communicated</hi> unto
+<pb n="56" facs="tcp:48612:34"/>Chriſt by <hi>Transfuſion,</hi> ſo as to be his <hi>Inherently.</hi> But their be<g ref="char:EOLhyphen"/>ing ſo only by <hi>Imputation,</hi> gives no countenance to any ſuch <hi>Pretence.</hi> However, there is a Notion of <hi>Le<g ref="char:EOLhyphen"/>gal <g ref="char:V">Ʋ</g>ncleanneſs,</hi> where there is no <hi>Inherent Defilement, Numb.</hi> 16.7, 8.</q>
+                  </p>
+                  <p>The Second, <q>That <hi>we are not every way as Righteous as Chriſt.</hi>
+                     </q>
+                  </p>
+                  <p>That we are made Righteous in Chriſt by <hi>Imputation</hi> of his <hi>Righte<g ref="char:EOLhyphen"/>ouſneſs</hi> unto us, is what we firmly Believe. And whereas the <hi>Jeſuit</hi> objects againſt this Doctrine, That then we are as <hi>Righteous as Christ himſelf,</hi> becauſe we are <hi>Righteous</hi> with his <hi>Righteouſneſs.</hi> Dr. <hi>Owen</hi> with good Reaſon replies. <q>To ſay <hi>We are as Righteous as Christ,</hi> is to make a <hi>Compariſon</hi> between the <hi>Perſonal Righteouſneſs of Christ,</hi> and our <hi>Perſonal Righteouſneſs,</hi> if the Compariſon be of Things of the
+<pb n="57" facs="tcp:48612:34" rendition="simple:additions"/>ſame kind. But this is Fooliſh and Impious; for notwithſtand<g ref="char:EOLhyphen"/>ing <hi>all</hi> our <hi>Perſonal Righteouſneſs,</hi> we are <hi>ſinful; He knew no Sin.</hi> And, if the Compariſon be be<g ref="char:EOLhyphen"/>tween Chriſt's <hi>Perſonal Inherent</hi> Righteouſneſs, and Righteouſ<g ref="char:EOLhyphen"/>neſs <hi>Imputed</hi> unto us: <hi>Inhaeſion,</hi> and <hi>Imputation</hi> being things of di<g ref="char:EOLhyphen"/>vers kinds, it is fond, and of no Conſequence. Chriſt was <hi>Actively</hi> Righteous, we are <hi>Paſſively</hi> ſo. When our Sin was <hi>Imputed</hi> unto Him, He did not thereby become a Sinner, <hi>as we are; Actively</hi> and <hi>Inherently</hi> a Sinner, but <hi>Paſſively</hi> only, and in God's Eſtimation. As He was made Sin, yet <hi>knew no Sin,</hi> ſo we are made Righteous, yet are ſinful in our ſelves.</q> Of <hi>Juſtifie, p.</hi> 509. or as Dr. <hi>Crew</hi> of <hi>Juſtif. Ed.</hi> 2. <hi>p.</hi> 96. <q>We are as Righ<g ref="char:EOLhyphen"/>teous,
+<pb n="58" facs="tcp:48612:35"/>
+                        <hi>Christ</hi> need to make us before <hi>God.</hi>
+                     </q>
+                  </p>
+                  <p n="3">3. That none may expect to be Pardoned in a State of <hi>
+                        <g ref="char:V">Ʋ</g>nbelief</hi> and <hi>Impenitence.</hi>
+                  </p>
+                  <p>We have, by referring our ſelves to the Aſſemblies Confeſſion, con<g ref="char:EOLhyphen"/>ſtantly owned thus much, as well as by our Preaching and Writings. In the <hi>Confeſſion</hi> of the Aſſembly it is ſaid, <hi>cap.</hi> 15. §. 3. <q>Altho <hi>Re<g ref="char:EOLhyphen"/>pentance</hi> be not to be reſted in, as any Satisfaction for Sin, or <hi>any Cauſe</hi> of the <hi>Pardon</hi> thereof, which is the Act of <hi>God's Free Grace</hi> in Chriſt, yet is it of ſuch <hi>Neceſſity</hi> to <hi>all Sinners,</hi> that none may ex<g ref="char:EOLhyphen"/>pect <hi>Pardon</hi> without it.</q>
+                  </p>
+                  <p>The Fourth, That continued <hi>Repentance</hi> and <hi>Holineſs</hi> are neceſ<g ref="char:EOLhyphen"/>ſary to our Poſſeſſion of <hi>Eternal Life,</hi> for without it we <hi>can't ſee God.</hi>
+                  </p>
+                  <pb n="59" facs="tcp:48612:35" rendition="simple:additions"/>
+                  <p>Our <hi>Confeſſion</hi> at the <hi>Savoy</hi> fully Aſſerts, <hi>cap.</hi> 15. §. 4. <q>That <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> is to be continued through the <hi>whole Courſe of our Lives,</hi> upon the account of the Body of Death, and the <hi>Motions</hi> thereof. And in <hi>cap.</hi> 13. §. 1.</q> 
+                     <q>They who are ef<g ref="char:EOLhyphen"/>fectually called—are alſo <hi>fur<g ref="char:EOLhyphen"/>ther Sanctified,</hi> Really and Perſo<g ref="char:EOLhyphen"/>nally—by his <hi>Word</hi> and <hi>Spirit</hi> dwelling in them; the Domini<g ref="char:EOLhyphen"/>on of the whole Body of Sin is deſtroyed, and the ſeveral Luſts <hi>thereof</hi> are more and more <hi>weaken<g ref="char:EOLhyphen"/>ed</hi> and <hi>mortified;</hi> and they more and more <hi>Quickned</hi> and <hi>Strength<g ref="char:EOLhyphen"/>ned</hi> in <hi>all Saving Graces,</hi> to the <hi>Practiſe</hi> of <hi>all true Holineſs, without which no Man ſhall ſee the Lord.</hi>
+                     </q>
+                  </p>
+                  <p>Theſe Things we Offer to be conſidered, that it may appear, to the Conviction of all, that our
+<pb n="60" facs="tcp:48612:36"/>
+                     <hi>Soundneſs in the Faith,</hi> and <hi>Agree<g ref="char:EOLhyphen"/>ment</hi> with the Reformed Churches is ſo very Conſpicuous and Ma<g ref="char:EOLhyphen"/>nifeſt, that it cannot but Surprize and Aſtoniſh the <hi>
+                        <g ref="char:V">Ʋ</g>nprejudiced</hi> to hear any Accuſing us, and move them to conclude, That our Accu<g ref="char:EOLhyphen"/>ſers themſelves believe not the Truth of their own Charge; but have brought it againſt us, to the End they may the more effectual<g ref="char:EOLhyphen"/>ly divert from an obſerving how, and after what manner they inſi<g ref="char:EOLhyphen"/>nuate and ſpread their own Erro<g ref="char:EOLhyphen"/>neous Opinions.</p>
+                  <p>In this Apprehenſion many will be confirmed when they conſider, that the <hi>Matters</hi> charged upon us, are not only without the leaſt co<g ref="char:EOLhyphen"/>lour of Reaſon, but moſt contra<g ref="char:EOLhyphen"/>ry to our known and avowed Prin<g ref="char:EOLhyphen"/>ciples. Nor hath there been any thing offered, that we know of,
+<pb n="61" facs="tcp:48612:36"/>to countenance this Accuſation, but the raiſing Another, which has as little Truth, and no more ground for it, than the former; which is, That we Encourage Ig<g ref="char:EOLhyphen"/>norant Perſons, and Men of no good Report to enter on the Mi<g ref="char:EOLhyphen"/>niſtry, who make it their Buſineſs to Preach up the Errours charged upon us, which we would never have done, had we not favoured their Notions: To which we Re<g ref="char:EOLhyphen"/>ply.</p>
+                  <p n="1">1. That touching Mens enter<g ref="char:EOLhyphen"/>ing on the Miniſtry, we yield no more than other <hi>Proteſtant Churches,</hi> ſuch as the Churches of <hi>Scotland, Holland</hi> and <hi>England,</hi> have hither<g ref="char:EOLhyphen"/>to done, <hi>viz.</hi> That Men of Sound Knowledge in the <hi>Subſtantials</hi> of Religion; Diſcreet, Holy, and Humble; whoſe Hearts God In<g ref="char:EOLhyphen"/>clines to the Work of the Mini<g ref="char:EOLhyphen"/>ſtry,
+<pb n="62" facs="tcp:48612:37"/>tho they have not had the Advantages of Eminency in the Academick Learning, or any con<g ref="char:EOLhyphen"/>ſiderable skill in Philoſophy, yet when the State of the Churches, and ſome ſpecial Circumſtances in regard to their Opportunity of Service and Uſefulneſs, require it, may enter on this Holy Work in an Orderly way with Approba<g ref="char:EOLhyphen"/>tion.</p>
+                  <p n="2">2. We do alſo declare, That they who enter on the Miniſtry, ought <hi>ordinarily</hi> to be endued with a competent Meaſure of Learning, (which is neceſſary for the De<g ref="char:EOLhyphen"/>fence of Truth againſt ſubtile Ad<g ref="char:EOLhyphen"/>verſaries) as well as with other Miniſterial Gifts: And that they may obtain this Qualification, they ought to uſe thoſe Helps that are moſt proper in order thereunto. In this we Agree with Dr. <hi>Goodwin;</hi>
+                     <pb n="63" facs="tcp:48612:37" rendition="simple:additions"/>who in <hi>Vol.</hi> 4. of <hi>Church Governm. L.</hi> 7. <hi>Cap.</hi> 3. ſaith. <q>There is a Ge<g ref="char:EOLhyphen"/>neration of Men that are againſt <hi>Acquir'd Knowledge;</hi> or that which is ſought out by Study, or re<g ref="char:EOLhyphen"/>ceived from others; and would have all <hi>Infuſed.</hi> Now conſider, <hi>Timothy</hi> had the main and chief of his Knowledge <hi>this way,</hi> 1 Tim. 3.14. <hi>Continue thou in the Things thou hast</hi> Learned—<hi>Knowing of whom thou hast</hi> Learned <hi>them.</hi> He had <hi>Learned</hi> them of <hi>Paul.</hi>—<hi>Da<g ref="char:EOLhyphen"/>niel,</hi> tho a Prophet, underſtood by <hi>Books, cap.</hi> 9.2. And whereas ſome Men are for Preaching only <hi>Extempore,</hi> and <hi>without Study, Paul</hi> bids <hi>Timothy <hi>Meditate</hi>
+                        </hi> and <hi>Stu<g ref="char:EOLhyphen"/>dy,</hi> and give his Mind wholly to theſe Things.</q>
+                  </p>
+                  <p n="3">3. Our Senſe in theſe Particu<g ref="char:EOLhyphen"/>lars, is fully delivered in the late <hi>Heads of Agreement;</hi> to which thoſe
+<pb n="64" facs="tcp:48612:38"/>of us, who Aſſented thereunto, do ſtill <hi>Adhere,</hi> as we do alſo, to the whole and every Branch of it, not<g ref="char:EOLhyphen"/>withſtanding the many Reports to the contrary, made by them, who have repreſented us as <hi>Violaters</hi> of it; who know how eaſily they might remove what has of late hindred our meeting with them. For, by declaring their diſlike of thoſe Errours, which, under the Covert of their <hi>Names</hi> have been, and ſtill are ſpread Abroad; and by Aſſerting the Doctrine of the <hi>Reformed</hi> in the <hi>Articles</hi> of <hi>Chriſt's Satisfaction;</hi> and our Juſti<g ref="char:EOLhyphen"/>fication by his Righteouſneſs, as Explained by our greateſt Divines, and as ſent unto us by ſome Emi<g ref="char:EOLhyphen"/>nent Brethren of their own Num<g ref="char:EOLhyphen"/>ber, they would have laid a good Foundation for a <hi>Compoſure.</hi>
+                  </p>
+                  <pb n="65" facs="tcp:48612:38"/>
+                  <p n="4">4. We do alſo declare, That <hi>as</hi> we count none meet to Diſpenſe the Oracles of God to others, who are not themſelves Qualified for Communion in all Ordinances; in like manner their joyning them<g ref="char:EOLhyphen"/>ſelves to a particular Church of Chriſt, would be a good Expedi<g ref="char:EOLhyphen"/>ent to prevent <hi>Ignorant</hi> and <hi>Raſh Intruders</hi> into the Miniſtry; ſee<g ref="char:EOLhyphen"/>ing then, if any <hi>
+                        <g ref="char:V">Ʋ</g>nfit</hi> for this Ho<g ref="char:EOLhyphen"/>ly Office, ſhould preſume to enter upon it, they might be Proceed<g ref="char:EOLhyphen"/>ed againſt in a Church Way; which could be no ſooner ſignifi<g ref="char:EOLhyphen"/>ed to them, amongſt whom theſe Ignorant Perſons <hi>Preach,</hi> than they would meet with Juſt Diſcourage<g ref="char:EOLhyphen"/>ment from their Godly and more Prudent Hearers: And we do e<g ref="char:EOLhyphen"/>ſteem it the Duty of <hi>Particular Churches,</hi> and their <hi>Officers,</hi> to take ſpecial Care, that none of
+<pb n="66" facs="tcp:48612:39"/>their Communion, who are <hi>not Qualified,</hi> do enter on this Work, without their Orderly Dealing with them, for ſo great a <hi>Pre<g ref="char:EOLhyphen"/>ſumption.</hi>
+                  </p>
+                  <p n="5">5. We cannot be Juſt to the Truth as to <hi>Matter of Fact,</hi> nor to our ſelves, unleſs we declare, That notwithſtanding the ſevere Charges of this Nature, caſt upon us, no Scandalous Perſons have gone out from amongſt us into the Miniſtry; and <hi>ſince this Liberty,</hi> there have more Unqualified Per<g ref="char:EOLhyphen"/>ſons broke out of the Congrega<g ref="char:EOLhyphen"/>tions of every other Perſwaſion, than out of ours, in this City. And the true Reaſon why the moſt of them, who thruſt themſelves into the Miniſtry, Aſſume the Name of <hi>Congregational,</hi> is not that they were of us, or went out by our Incouragement, but becauſe ſuch
+<pb n="67" facs="tcp:48612:39"/>are the Circumſtances of Diſſent<g ref="char:EOLhyphen"/>ing Churches at this time, as makes them <hi>Congregational,</hi> altho our Ac<g ref="char:EOLhyphen"/>cuſers do now ſo vehemently cry down the <hi>Name.</hi> And we have been, and now are, ſo Diſſatis<g ref="char:EOLhyphen"/>fied with ſuch Mens Intruding themſelves into this Holy Functi<g ref="char:EOLhyphen"/>on, that when ſuch from the Coun<g ref="char:EOLhyphen"/>try made Application to us for our Countenance, we Unanimouſly agreed, That none, who gave not good Satisfaction of their <hi>Abilities</hi> for the Miniſtry, ſhould have any Encouragement from us. In a Word.</p>
+                  <p n="6">6. We having freely delivered our True Sentiments in theſe Points, as we have fully declared againſt the aforeſaid Errours in Doctrinals; ſo we do hereby ex<g ref="char:EOLhyphen"/>preſs our Diſlike, and <hi>Witneſs</hi> againſt all <hi>Ignorant</hi> and <hi>Scandalous</hi>
+                     <pb n="68" facs="tcp:48612:40" rendition="simple:additions"/>Perſons entering on the Miniſtry: And we do, in the Bowels of our Lord Jeſus Chriſt, Pray and Be<g ref="char:EOLhyphen"/>ſeech all ſuch as fear God, That they give not the leaſt Encourage<g ref="char:EOLhyphen"/>ment to the Preaching of Men, ei<g ref="char:EOLhyphen"/>ther Ignorant or <hi>Erroneous</hi> in the Great <hi>Articles of Faith,</hi> or Scan<g ref="char:EOLhyphen"/>dalous in their Lives and Conver<g ref="char:EOLhyphen"/>ſations, or otherwiſe Unmeet for this Holy Imployment, leſt they bring the Guilt of theſe Mens Sins on their own Souls.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48612:40"/>
+         </div>
+      </body>
+   </text>
+</TEI>
